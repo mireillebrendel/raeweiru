@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://atahshoht.egeste.net/sitemap.xml
